@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Noppakan Sirikul
-- 😄 Pronouns: she/her/hers
-- 🌱 I’m currently a Master's student studying Applied Statistics at CSULB
+- 👋 Hi, I’m Noppakan!
+- 🌱 I’m currently pursuing my M.S. in Applied Statistics at CSULB and have a B.S. in Applied Mathematics from UC Davis.
 - 📫 How to reach me: noppakansirikul@gmail.com or noppakan.sirikul01@student.csulb.edu
 
 <!---
