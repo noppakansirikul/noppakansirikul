@@ -1,6 +1,6 @@
-📊 Higher Ed Researcher
-🌱 M.S. Applied Statistics | CSULB
-🌱 B.S. Applied Math | UCD
+- 📊 Higher Ed Researcher
+- 🌱 M.S. Applied Statistics | CSULB
+- 🌱 B.S. Applied Math | UCD
 
 <!---
 noppakansirikul/noppakansirikul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
